@@ -24,6 +24,9 @@ Hosted by Jeju Energy-New-Industry Advancement Innovative Human Resources Cultiv
 
 
 ### Prof. Paul Yoo (Birkbeck College, University of London, England)
+> * Title: Smart grid security: a machine learning perspective
+> * Abstract: This talk covers the fundamental concepts and techniques of securing smart grid using machine learning with particular focus on false data injection (FDI). FDI attacks are malicious insertions of false data as sensor measurements (targeting the interface rather than the computational/network components) in a cyber physical system, in order to lead the system to take a wrong action. Due to the rapid growth of the Internet and associated complex pervasive systems, cyber attacks are becoming more sophisticated, other domains such as finance, healthcare, finance, manufacturing and defence have also been exploited with similar malicious actions and thus FDI has become one of the top-priority issues to deal with today. In this talk, we discuss the impact of FDI in critical domains like smart grid and its countermeasures, and introduce machine learning based methodologies on how to defend smart grid from such attacks. 
+
 
 ### Prof. Debnath Bhattacharyya (K.L. University, India)
 
