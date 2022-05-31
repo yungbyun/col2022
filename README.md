@@ -1,6 +1,10 @@
 # 3rd Colloquium 
 for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation, Brain Korea 21 Four Project
 
+**June 10 ~ June 11, 2022**  
+
+![aaa](/images/1528340503774.png)
+
 ## Colloquium Overview
 
 
