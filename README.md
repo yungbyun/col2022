@@ -16,6 +16,7 @@ Hosted by Jeju Energy-New-Industry Advancement Innovative Human Resources Cultiv
 
 ## Speakers
 ### Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)
+** 13:20 ~ 14:10, June 10, 2022 <br/> ** 
 > <img src="images\damia.gif" style="zoom:70%;" /> <br/>
 > * Title:
 > * Abstract: 
