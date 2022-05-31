@@ -11,11 +11,21 @@ Hosted by Jeju Energy-New-Industry Advancement Innovative Human Resources Cultiv
 ## Organizing Committee
 * Yung-Cheol Byun, Jeju National University, Korea
 * Kyung-Youn Kim, Jeju National University, Korea
-* 
+* Ho-Chan Kim, Jeju National University, Korea
+* Young-Joon Choi, Jeju National University, Korea
 
 ## Speakers
+### Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)
+* The Università degli Studi di Milano, Italy
 * 
 
+
+### Prof. Kiyota Hashimoto (Prince of Songkla University, Thailand)
+
+
+### Prof. Paul Yoo (Birkbeck College, University of London, England)
+
+### Prof. Debnath Bhattacharyya (K.L. University, India)
 
 
 
