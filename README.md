@@ -5,10 +5,12 @@ for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation,
 
 
 ## Organizing Committee
-
+* Yung-Cheol Byun, Jeju National University, Korea
+* Kyung-Youn Kim, Jeju National University, Korea
+* 
 
 ## Speakers
-
+* 
 
 
 ## Hosted by
