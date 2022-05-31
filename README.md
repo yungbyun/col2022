@@ -1,5 +1,4 @@
-# 3rd International Colloquium 
-for Brain Korea 21 Four Project
+# 3rd International Colloquium for Brain Korea 21 Four Project
 
 **June 10 ~ June 11, 2022**  
 
