@@ -1,5 +1,5 @@
 # The 3rd International Colloquium for Brain Korea 
-Hosted by The Center for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation <br/>
+Hosted by The Center for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation, Jeju National University, Korea <br/>
 **June 10 ~ June 11, 2022**  
 
 ![aaa](/images/1528340503774.png)
