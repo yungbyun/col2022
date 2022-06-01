@@ -1,4 +1,4 @@
-# 3rd International Colloquium for Brain Korea 21 Four Project
+# 3rd International Colloquium for Brain Korea 
 Hosted by The Center for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation <br/>
 **June 10 ~ June 11, 2022**  
 
