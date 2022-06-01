@@ -1,5 +1,4 @@
-# The 3rd International Colloquium for Brain Korea 
-Hosted by The Center for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation, Jeju National University, Korea <br/>
+# The 3rd International Colloquium for Brain Korea on Energy-New-Industry Advancement
 **June 10 ~ June 11, 2022**  
 
 <img src="images\1528340503774.png" width="800" /> <br/>
@@ -9,8 +8,17 @@ The international colloquium is held every semester for nurturing talents in the
 We invite domestic and foreign scholars and experts in the new energy industry related to energy production, storage and management to share their experiences and knowledge.
 The new energy industry colloquium broadens the academic and research activities of participating graduate students and provides opportunities for mutual exchange between the graduate students and overseas experts. Through this, we realize the internationalization of our graduate school.
 
-## Organizing Committee
+## Host and Sponsors
+### Host
+> * The Center for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation, Jeju National University, Korea <br/>
+### Sponsors
+> * 
+> * 
+
+## Committee
+### organizing Chair
 * Prof. **Yung-Cheol Byun**, Dept. of Computer Engineering, Jeju National University, Korea
+### Organizing Committee
 * Prof. **Kyung-Youn Kim**, Dept. of Electronic Engineering, Jeju National University, Korea
 * Prof. **Ho-Chan Kim**, Dept. of Electrical Engineering, Jeju National University, Korea
 * Prof. **Young-Jun Choi**, Dept. of Electrical Engineering, Jeju National University, Korea
