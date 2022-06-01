@@ -18,7 +18,7 @@ The new energy industry colloquium broadens the academic and research activities
 ## Invited Talks 
 **1:20 pm ~ 5:50 pm, June 10(Friday), 2022** <br/>
 
-### 1. Title
+### 1. Title (TBD)
 **by Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
 **Time: 13:20 ~ 14:10, June 10, 2022** <br/>  
 > <img src="images\damia.gif" width="300" /> <br/>
@@ -26,7 +26,7 @@ The new energy industry colloquium broadens the academic and research activities
 > * Abstract: 
 > * Short Bio: Ernesto Damiani (Senior Member, IEEE) is currently a Full Professor at the Università degli Studi di Milano, Italy, a Senior Director of the Robotics and Intelligent Systems Institute, and the Director of the Center for Cyber Physical Systems (C2PS), Khalifa University, United Arab Emirates. He is the Leader of the Big Data Area, Etisalat British Telecom Innovation Center (EBTIC), and the President of the Consortium of Italian Computer Science Universities (CINI). He is also part of the ENISA Ad-Hoc Working Group on Artificial Intelligence Cybersecurity. He has pioneered model-driven data analytics. He has authored more than 650 Scopus-indexed publications and several patents. His research interests include cyber-physical systems, big data analytics, edge/cloud security and performance, artificial intelligence, and machine learning. He was a recipient of the Research and Innovation Award from the IEEE Technical Committee on Homeland Security, of the Stephen Yau Award from the Service Society, of the Outstanding Contributions Award from IFIP TC2, of the Chester-Sall Award from IEEE IES, of the IEEE TCHS Research and Innovation Award, and of a Doctorate Honoris Causa from INSA-Lyon, France, for his contribution to big data teaching and research.
 
-### 2. 
+### 2. Title (TBD)
 **by Prof. Kiyota Hashimoto (Prince of Songkla University, Thailand)** <br/>
 **Time: 14:20 ~ 15:10, June 10, 2022** <br/>  
 > * Title: 
