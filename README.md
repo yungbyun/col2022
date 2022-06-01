@@ -6,7 +6,7 @@ Hosted by Jeju Energy-New-Industry Advancement Innovative Human Resources Cultiv
 ![aaa](/images/1528340503774.png)
 
 ## Colloquium Overview
-colloquium for nurturing talents in the new energy industry is held every semester. 
+The international colloquium for nurturing talents in the new energy industry is held every semester. 
 We invite domestic and foreign scholars and experts in the new energy industry related to energy production, storage and management to share their experiences and knowledge.
 The new energy industry colloquium broadens the academic and research activities of participating graduate students and provides opportunities for mutual exchange between the graduate students and overseas experts. Through this, we realize the internationalization of our graduate school.
 
