@@ -15,7 +15,7 @@ The new energy industry colloquium broadens the academic and research activities
 * Ho-Chan Kim, Dept. of Electrical Engineering, Jeju National University, Korea
 * Young-Jun Choi, Dept. of Electrical Engineering, Jeju National University, Korea
 
-## Talks
+## Invited Talks
 ### 1. Title
 **by Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
 **Time: 13:20 ~ 14:10, June 10, 2022** <br/>  
