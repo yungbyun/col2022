@@ -10,10 +10,10 @@ We invite domestic and foreign scholars and experts in the new energy industry r
 The new energy industry colloquium broadens the academic and research activities of participating graduate students and provides opportunities for mutual exchange between the graduate students and overseas experts. Through this, we realize the internationalization of our graduate school.
 
 ## Organizing Committee
-* Yung-Cheol Byun, Dept. of Computer Engineering, Jeju National University, Korea
-* Kyung-Youn Kim, Dept. of Electronic Engineering, Jeju National University, Korea
-* Ho-Chan Kim, Dept. of Electrical Engineering, Jeju National University, Korea
-* Young-Jun Choi, Dept. of Electrical Engineering, Jeju National University, Korea
+* Prof. **Yung-Cheol Byun**, Dept. of Computer Engineering, Jeju National University, Korea
+* Prof. **Kyung-Youn Kim**, Dept. of Electronic Engineering, Jeju National University, Korea
+* Prof. **Ho-Chan Kim**, Dept. of Electrical Engineering, Jeju National University, Korea
+* Prof. **Young-Jun Choi**, Dept. of Electrical Engineering, Jeju National University, Korea
 
 ## Invited Talks 
 **1:20 pm ~ 5:10 pm, June 10(Friday), 2022** <br/>
