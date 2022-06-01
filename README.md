@@ -18,7 +18,7 @@ The new energy industry colloquium broadens the academic and research activities
 
 ## Talks
 ### Title
-**by Prof. Ernesto Damiani (Università degli Studi di Milano, Italy) <br/>
+**by Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
 **Time: 13:20 ~ 14:10, June 10, 2022** <br/>  
 > <img src="images\damia.gif" style="zoom:70%;" /> <br/>
 > * Title:
@@ -26,14 +26,14 @@ The new energy industry colloquium broadens the academic and research activities
 > * Short Bio: Ernesto Damiani (Senior Member, IEEE) is currently a Full Professor at the Università degli Studi di Milano, Italy, a Senior Director of the Robotics and Intelligent Systems Institute, and the Director of the Center for Cyber Physical Systems (C2PS), Khalifa University, United Arab Emirates. He is the Leader of the Big Data Area, Etisalat British Telecom Innovation Center (EBTIC), and the President of the Consortium of Italian Computer Science Universities (CINI). He is also part of the ENISA Ad-Hoc Working Group on Artificial Intelligence Cybersecurity. He has pioneered model-driven data analytics. He has authored more than 650 Scopus-indexed publications and several patents. His research interests include cyber-physical systems, big data analytics, edge/cloud security and performance, artificial intelligence, and machine learning. He was a recipient of the Research and Innovation Award from the IEEE Technical Committee on Homeland Security, of the Stephen Yau Award from the Service Society, of the Outstanding Contributions Award from IFIP TC2, of the Chester-Sall Award from IEEE IES, of the IEEE TCHS Research and Innovation Award, and of a Doctorate Honoris Causa from INSA-Lyon, France, for his contribution to big data teaching and research.
 
 ### Title
-**by Prof. Kiyota Hashimoto (Prince of Songkla University, Thailand) <br/>
+**by Prof. Kiyota Hashimoto (Prince of Songkla University, Thailand)** <br/>
 **Time: 14:20 ~ 15:10, June 10, 2022** <br/>  
 > * Title: 
 > * Abstract: 
 > * Short Bio:
 
 ### Smart Grid Security: A Machine Learning Perspective
-**by Prof. Paul Yoo (Birkbeck College, University of London, England) <br/>
+**by Prof. Paul Yoo (Birkbeck College, University of London, England)** <br/>
 **Time: 15:20 ~ 16:10, June 10, 2022** <br/>  
 > <img src="images\yoo.png" style="zoom:70%;" /> <br/>
 > * Abstract: This talk covers the fundamental concepts and techniques of securing smart grid using machine learning with particular focus on false data injection (FDI). FDI attacks are malicious insertions of false data as sensor measurements (targeting the interface rather than the computational/network components) in a cyber physical system, in order to lead the system to take a wrong action. Due to the rapid growth of the Internet and associated complex pervasive systems, cyber attacks are becoming more sophisticated, other domains such as finance, healthcare, finance, manufacturing and defence have also been exploited with similar malicious actions and thus FDI has become one of the top-priority issues to deal with today. In this talk, we discuss the impact of FDI in critical domains like smart grid and its countermeasures, and introduce machine learning based methodologies on how to defend smart grid from such attacks. 
