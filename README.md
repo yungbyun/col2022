@@ -19,7 +19,7 @@
 > ### Organizing Committee
 > * Prof. **Kyung-Youn Kim**, Dept. of Electronic Engineering, Jeju National University, Korea
 > * Prof. **Ho-Chan Kim**, Dept. of Electrical Engineering, Jeju National University, Korea
-> * Prof. **Young-Jun Choi**, Dept. of Electrical Engineering, Jeju National University, Korea
+> * Prof. **Yeong-Jun Choi**, Dept. of Electrical Engineering, Jeju National University, Korea
 
 ## Invited Talks 
 **1:20 pm ~ 5:50 pm, June 10(Friday), 2022** <br/>
