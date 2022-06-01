@@ -28,17 +28,15 @@
 **Time: 13:20 ~ 14:10, June 10, 2022** <br/>  
 > * **Speaker: Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
 > <img src="images\damia.gif" width="300" /> <br/>
-> * Title:
 > * Abstract: 
 > * Short Bio: Ernesto Damiani (Senior Member, IEEE) is currently a Full Professor at the Università degli Studi di Milano, Italy, a Senior Director of the Robotics and Intelligent Systems Institute, and the Director of the Center for Cyber Physical Systems (C2PS), Khalifa University, United Arab Emirates. He is the Leader of the Big Data Area, Etisalat British Telecom Innovation Center (EBTIC), and the President of the Consortium of Italian Computer Science Universities (CINI). He is also part of the ENISA Ad-Hoc Working Group on Artificial Intelligence Cybersecurity. He has pioneered model-driven data analytics. He has authored more than 650 Scopus-indexed publications and several patents. His research interests include cyber-physical systems, big data analytics, edge/cloud security and performance, artificial intelligence, and machine learning. He was a recipient of the Research and Innovation Award from the IEEE Technical Committee on Homeland Security, of the Stephen Yau Award from the Service Society, of the Outstanding Contributions Award from IFIP TC2, of the Chester-Sall Award from IEEE IES, of the IEEE TCHS Research and Innovation Award, and of a Doctorate Honoris Causa from INSA-Lyon, France, for his contribution to big data teaching and research.
 
-### 2. Title (TBD)
+### 2. Title: Time series prediction of electricity demand and beyond: How recent machine learning technologies work
 **Time: 14:20 ~ 15:10, June 10, 2022** <br/>
 > * **Speaker: Prof. Kiyota Hashimoto (Prince of Songkla University, Thailand)** <br/>
 > <img src="images\_kiyota.png" width="300" /> <br/>
-> * Title: 
-> * Abstract: 
-> * Short Bio:
+> * Abstract: Electricity is one of the most important infrastructures for the current civilized life, and its importance has been becoming growing. Stable supply of electricity is indispensable but demand varies due to various regular and unexpected conditions. Many middle-developed and developing countries also need to strengthen and stabilize their electricity supply and for that, precise estimation of electricity demand is waited, for which recent machine learning technologies can help. In this talk, some essential ideas of time-series prediction are introduced, and then the concepts of several traditional and recent models of time-series prediction are discussed, followed by research results. Finally, future directions are shown based on the idea of the IoT(Internet of Things)-based society.
+> * Short Bio: Dr. Kiyota Hashimoto, D.Eng. works at Faculty of Technology and Environment, Prince of Songkla University Phuket Campus, Thailand, and also as a collaborative professor at Kanazawa University, Japan. He obtained his B.A. and M.A. from Kyoto University, Japan, and Doctor of Engineering from Nara Institute of Science and Technology, Japan. After he worked for 20 years at Japanese universities including Osaka Prefecture University as a full professor, he moved to Thailand in 2015. His research interest includes natural language processing, machine learning, artificial intelligence, data science, e-learning, etc. He published more than 100+ papers at international journals and conferences, as well as delivering many keynote and invited talks. He also contributes as chair and editors for  many international journals and conferences.
 
 ### 3. Smart Grid Security: A Machine Learning Perspective
 **Time: 15:20 ~ 16:10, June 10, 2022** <br/>  
