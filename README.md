@@ -22,11 +22,11 @@
 > * Prof. **Young-Jun Choi**, Dept. of Electrical Engineering, Jeju National University, Korea
 
 ## Invited Talks 
-**1:20 pm ~ 5:50 pm, June 10(Friday), 2022** <br/>
+** 1:20 pm ~ 5:50 pm, June 10(Friday), 2022** <br/>
 
 ### 1. Title (TBD)
-**Time: 13:20 ~ 14:10, June 10, 2022** <br/>  
-> * Speaker: Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
+** Time: 13:20 ~ 14:10, June 10, 2022** <br/>  
+> * **Speaker: Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
 > <img src="images\damia.gif" width="300" /> <br/>
 > * Title:
 > * Abstract: 
