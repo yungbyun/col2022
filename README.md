@@ -16,7 +16,7 @@ The new energy industry colloquium broadens the academic and research activities
 * Prof. **Young-Jun Choi**, Dept. of Electrical Engineering, Jeju National University, Korea
 
 ## Invited Talks 
-**1:20 pm ~ 5:10 pm, June 10(Friday), 2022** <br/>
+**1:20 pm ~ 5:50 pm, June 10(Friday), 2022** <br/>
 
 ### 1. Title
 **by Prof. Ernesto Damiani (Università degli Studi di Milano, Italy)** <br/>
