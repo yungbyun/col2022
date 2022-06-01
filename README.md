@@ -16,7 +16,7 @@ The new energy industry colloquium broadens the academic and research activities
 > * 
 
 ## Committee
-### organizing Chair
+### Organizing Chair
 * Prof. **Yung-Cheol Byun**, Dept. of Computer Engineering, Jeju National University, Korea
 ### Organizing Committee
 * Prof. **Kyung-Youn Kim**, Dept. of Electronic Engineering, Jeju National University, Korea
