@@ -50,6 +50,7 @@ Dr. Bhattacharyya received his Ph.D. (Tech., Computer Science and Engineering) f
 
 
 ## Venue (Jeju National University, Jeju, Korea)
+* Engineering Buildong #4, Jenu National University (Google Map: https://goo.gl/maps/BE3e9gc52mj8L5eX6) 
 * Jeju Island, Korea: Located just off the coast of the Korean peninsula, Jeju Island is the largest volcanic island in Korea. Also known as Asia's Hawaii, the island is rife with beautiful sceneries and getaway resorts. Jeju boasts several natural treasures including Mount Halla, the country's highest peak, Trail Olle that winds around the rocky coastline, and Sunrise Peak, a dormant volcano ideal for catching sunrises and sunsets. You will be able to fully experience the island's charm for as long as a month stay without a visa. For more information, please visit at: http://www.visitjeju.net/en/index.jto. 
 * Jenu National University: 
 
