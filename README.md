@@ -2,9 +2,8 @@
 Hosted by The Center for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation, Jeju National University, Korea <br/>
 **June 10 ~ June 11, 2022**  
 
-<img src="images\1528340503774.png" width="700" /> <br/>
+<img src="images\1528340503774.png" width="800" /> <br/>
  
-
 ## Colloquium Overview
 The international colloquium is held every semester for nurturing talents in the new energy industry. 
 We invite domestic and foreign scholars and experts in the new energy industry related to energy production, storage and management to share their experiences and knowledge.
