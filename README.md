@@ -8,7 +8,9 @@
 
 ## Host and Sponsors
 > ### Host
-> * The Center for Jeju Energy-New-Industry Advancement Innovative Human Resources Cultivation, Jeju National University, Korea <br/>
+> * Jeju ENI Advancement IHRC Group <br/>
+> * Institute of Energy-New-Industry (ENI) <br/>
+> * Jeju National University <br/>
 > ### Sponsors
 > * 
 > * 
