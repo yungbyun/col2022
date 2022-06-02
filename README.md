@@ -12,8 +12,11 @@
 > * Institute of Energy-New-Industry (ENI) <br/>
 > * Jeju National University <br/>
 > ### Sponsors
-> * 
-> * 
+> * Korea Southern Power CO.,Ltd. (제주남부발전)
+> * Jeju Energy Corporation (제주에너지공사)
+> * Jeju Center of Korea Institute of Industrial Technology (제주생산기술연구원)
+> * Jeju Center of Korea Institute of Energy Research (제주에너지기술연구원)
+> * National Research Foundation of Korea (한국연구재단)
 
 ## Committee
 > ### Organizing Chair
