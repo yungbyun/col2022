@@ -27,11 +27,11 @@
 > * Prof. **Dong Won Jung**, Dept. of Mechanical Engineering, Jeju National University, Korea
 > * Prof. **Yeong-Jun Choi**, Dept. of Electrical Engineering, Jeju National University, Korea
 > ### Steering Chair
-> * Prof. Beom-Seok Kim, Major of Wind Power Engineering, Graduate School, Jeju National University, Korea
+> * Prof. **Beom-Seok Kim**, Major of Wind Power Engineering, Graduate School, Jeju National University, Korea
 > ### Steering Committee
-> * Prof. Seung-Min Woo, Dept. of Nuclear & Energy Engineering, Jeju National University, Korea
-> * Prof. Jae-Young Hur, Dept. of Electronic Engineering, Jeju National University, Korea
-> * Prof. Jin Hwan Ko, Dept. of Mechanical Engineering, Jeju National University, Korea
+> * Prof. **Seung-Min Woo**, Dept. of Nuclear & Energy Engineering, Jeju National University, Korea
+> * Prof. **Jae-Young Hur**, Dept. of Electronic Engineering, Jeju National University, Korea
+> * Prof. **Jin Hwan Ko**, Dept. of Mechanical Engineering, Jeju National University, Korea
 
 
 ## Invited Talks 
