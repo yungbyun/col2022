@@ -1,4 +1,4 @@
-# The 3rd International Colloquium on Energy-New-Industry Advancement
+# The 3rd International Colloquium on New Energy Industry Advancement
 **June 10 ~ June 11, 2022**  
 
 <img src="images\1528340503774.png" width="800" /> <br/>
